@@ -1,38 +1,77 @@
-# 你好，我是nanbloom001
+<h1 align="center">你好，我是楠 <sub>@nanbloom001</sub></h1>
 
-河海大学人工智能与自动化学院，智能科学与技术专业本科生。
+<p align="center">
+  河海大学 · 智能科学与技术 · 机器人软件与强化学习
+</p>
 
-我主要关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=%E8%AE%A9%E7%AE%97%E6%B3%95%E4%BB%8E%E4%BB%BF%E7%9C%9F%E8%B5%B0%E5%90%91%E7%9C%9F%E5%AE%9E%E8%AE%BE%E5%A4%87;%E6%9E%84%E5%BB%BA%E5%8F%AF%E5%A4%8D%E7%8E%B0%E3%80%81%E5%8F%AF%E9%AA%8C%E8%AF%81%E3%80%81%E5%8F%AF%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%B3%BB%E7%BB%9F"
+    alt="机器人软件与强化学习"
+  />
+</p>
 
-## 我在做什么
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab" />
+</p>
 
-- 四足与轮足机器人的强化学习训练、仿真验证和边缘侧部署
-- ROS 1 / ROS 2 多节点系统、导航控制、状态机与任务调度
-- SLAM、融合定位与长时间运行中的累计误差修正
-- YOLO、OCR 等视觉算法及其在机器人巡检任务中的应用
-- Isaac Lab、MuJoCo、Gazebo 等机器人仿真与验证工具链
+---
+
+我关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
+
+> **项目成果**
+>
+> - 中国软件杯全国一等奖：四足机器人巡检系统
+> - 全球校园人工智能算法精英大赛全国一等奖：社区智能巡检机器人
 
 ## 代表项目
 
-### [腾讯开悟四足机器人自主导航](https://github.com/nanbloom001/kaiwuFinal)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足机器人自主导航</a></h3>
+      <p>目标跟踪、观测设计、奖励塑形、复杂地形适应与部署验证。</p>
+      <p><code>Python</code> <code>强化学习</code> <code>自主导航</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nanbloom001/wheeled_leg_RL">轮足机器人强化学习</a></h3>
+      <p>Isaac Lab 训练环境、仿真资产构建与机器人运动控制。</p>
+      <p><code>Isaac Lab</code> <code>强化学习</code> <code>机器人控制</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检机器人</a></h3>
+      <p>ROS 导航、事件驱动状态机、YOLO 与 OCR 级联检测，以及边缘侧部署。</p>
+      <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘部署</code></p>
+    </td>
+  </tr>
+</table>
 
-围绕四足机器人的目标跟踪与自主导航开展强化学习训练，关注观测设计、奖励塑形、复杂地形适应以及从仿真训练到部署验证的完整流程。
+## 当前关注
 
-`Python` `强化学习` `四足机器人` `自主导航`
+- 四足机器人在复杂地形中的自主决策与目标跟踪
+- 强化学习策略的 Sim2Sim / Sim2Real 迁移与鲁棒性验证
+- ROS 1 / ROS 2 多节点系统、融合定位与复杂任务调度
+- 可复现、可观测、可部署的机器人训练工程
 
-### [轮足机器人强化学习](https://github.com/nanbloom001/wheeled_leg_RL)
+## GitHub 数据
 
-基于 Isaac Lab 2.3.0 搭建轮足机器人训练环境，探索策略训练、仿真资产构建与机器人运动控制。
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github" alt="GitHub 贡献概览" />
+  </picture>
+</p>
 
-`Python` `Isaac Lab` `强化学习` `机器人控制`
-
-### [社区智能巡检机器人](https://github.com/nanbloom001/2025AiCOMP_ZHSQ)
-
-面向社区巡检场景完成视觉算法训练、ROS 导航控制与边缘侧部署，通过事件驱动状态机协调导航和视觉任务，并使用 YOLO 与 OCR 级联完成多模态目标检测。
-
-`ROS 1` `YOLO` `OCR` `状态机` `边缘部署`
-
-## 技术栈
+<details>
+  <summary><strong>技术栈与工具</strong></summary>
+  <br />
 
 | 方向 | 技术与工具 |
 | --- | --- |
@@ -42,16 +81,6 @@
 | 视觉与部署 | YOLO、OCR、ONNX、Jetson Nano、Docker |
 | 工程工具 | Git、CMake、URDF、USD |
 
-## 经历与成果
+</details>
 
-- 中国软件杯全国一等奖：参与四足机器人巡检系统开发，负责 ROS 2 系统架构、核心导航算法与复杂任务流控制
-- 全球校园人工智能算法精英大赛全国一等奖：负责社区智能巡检机器人的视觉算法、ROS 导航控制和边缘侧部署
-- 持续进行 12 自由度机器狗的强化学习步态训练、Sim2Sim 验证与轻量化模型部署实践
-
-## 当前关注
-
-- 四足机器人在复杂地形中的自主决策与目标跟踪
-- 强化学习策略的 Sim2Real 迁移与鲁棒性验证
-- 可复现、可观测、可部署的机器人训练工程
-
-项目代码和阶段性实验会持续整理在 GitHub。欢迎通过具体仓库的 Issue 交流技术问题。
+项目代码和阶段性实验会持续整理在 GitHub。技术交流请通过对应仓库的 Issue 发起。
