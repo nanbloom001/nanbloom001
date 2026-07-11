@@ -1,4 +1,9 @@
-<h1 align="center">你好，我是楠 <sub>@nanbloom001</sub></h1>
+<h1 align="center">你好，我是楠</h1>
+
+<p align="center">
+  <strong>@nanbloom001</strong><br />
+  <a href="mailto:nanbloom001@gmail.com">nanbloom001@gmail.com</a>
+</p>
 
 <p align="center">
   河海大学 · 智能科学与技术 · 机器人软件与强化学习
@@ -14,19 +19,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Native-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Native" />
   <img src="https://img.shields.io/badge/Robotics-00599C?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-2E7D32?style=flat-square" alt="强化学习" />
   <img src="https://img.shields.io/badge/VLA-6F42C1?style=flat-square" alt="VLA" />
-  <img src="https://img.shields.io/badge/Imitation_Learning-8A2BE2?style=flat-square" alt="Imitation Learning" />
+  <img src="https://img.shields.io/badge/%E6%A8%A1%E4%BB%BF%E5%AD%A6%E4%B9%A0-8A2BE2?style=flat-square" alt="模仿学习" />
   <img src="https://img.shields.io/badge/Sim2Real-B35C00?style=flat-square" alt="Sim2Real" />
   <img src="https://img.shields.io/badge/AI_Coding-24292F?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI Coding" />
+  <img src="https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5-57606A?style=flat-square" alt="工程实践" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab" />
+  <img src="https://img.shields.io/badge/MuJoCo-1F6FEB?style=flat-square" alt="MuJoCo" />
 </p>
 
 ---
