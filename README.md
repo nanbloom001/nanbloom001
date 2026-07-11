@@ -12,12 +12,24 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI_Native-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Native" />
+  <img src="https://img.shields.io/badge/Robotics-00599C?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/VLA-6F42C1?style=flat-square" alt="VLA" />
+  <img src="https://img.shields.io/badge/Imitation_Learning-8A2BE2?style=flat-square" alt="Imitation Learning" />
+  <img src="https://img.shields.io/badge/Sim2Real-B35C00?style=flat-square" alt="Sim2Real" />
+  <img src="https://img.shields.io/badge/AI_Coding-24292F?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI Coding" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab" />
 </p>
+
+<p align="center"><sub><strong>AI Native：</strong>将 AI 作为默认协作工具，贯穿需求拆解、代码实现、调试验证与项目文档。</sub></p>
 
 ---
 
@@ -31,7 +43,7 @@
 
 ## 代表项目
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top">
       <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足导航</a></strong>
@@ -57,20 +69,6 @@
     </td>
   </tr>
 </table>
-
-## 我的标签
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Native-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Native" />
-  <img src="https://img.shields.io/badge/Robotics-00599C?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
-  <img src="https://img.shields.io/badge/VLA-6F42C1?style=flat-square" alt="VLA" />
-  <img src="https://img.shields.io/badge/Imitation_Learning-8A2BE2?style=flat-square" alt="Imitation Learning" />
-  <img src="https://img.shields.io/badge/Sim2Real-B35C00?style=flat-square" alt="Sim2Real" />
-  <img src="https://img.shields.io/badge/AI_Coding-24292F?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI Coding" />
-</p>
-
-<p><strong>AI Native：</strong>将 AI 作为默认协作工具，贯穿需求拆解、代码实现、调试验证与项目文档；同时关注 VLA、模仿学习与强化学习在机器人决策和控制中的结合。</p>
 
 ## GitHub 数据
 
