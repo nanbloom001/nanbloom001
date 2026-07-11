@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=%E8%AE%A9%E7%AE%97%E6%B3%95%E4%BB%8E%E4%BB%BF%E7%9C%9F%E8%B5%B0%E5%90%91%E7%9C%9F%E5%AE%9E%E8%AE%BE%E5%A4%87;%E6%9E%84%E5%BB%BA%E5%8F%AF%E5%A4%8D%E7%8E%B0%E3%80%81%E5%8F%AF%E9%AA%8C%E8%AF%81%E3%80%81%E5%8F%AF%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%B3%BB%E7%BB%9F"
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&pause=1400&color=2F81F7&center=true&vCenter=true&width=600&lines=%E8%AE%A9%E7%AE%97%E6%B3%95%E4%BB%8E%E4%BB%BF%E7%9C%9F%E8%B5%B0%E5%90%91%E7%9C%9F%E5%AE%9E%E8%AE%BE%E5%A4%87;%E4%B8%93%E6%B3%A8%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%87%AA%E4%B8%BB%E5%86%B3%E7%AD%96%E4%B8%8E%E6%8E%A7%E5%88%B6;%E5%85%B3%E6%B3%A8%E8%AE%AD%E7%BB%83%E3%80%81%E9%AA%8C%E8%AF%81%E4%B8%8E%E9%83%A8%E7%BD%B2%E7%9A%84%E5%AE%8C%E6%95%B4%E9%97%AD%E7%8E%AF;%E6%9E%84%E5%BB%BA%E5%8F%AF%E5%A4%8D%E7%8E%B0%E3%80%81%E5%8F%AF%E9%AA%8C%E8%AF%81%E3%80%81%E5%8F%AF%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%B3%BB%E7%BB%9F"
     alt="机器人软件与强化学习"
   />
 </p>
@@ -27,26 +27,28 @@
 >
 > - 中国软件杯全国一等奖：四足机器人巡检系统
 > - 全球校园人工智能算法精英大赛全国一等奖：社区智能巡检机器人
+> - 服务外包腾讯开悟赛道四足机器狗强化学习：区域赛一等奖
 
 ## 代表项目
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足机器人自主导航</a></h3>
-      <p>目标跟踪、观测设计、奖励塑形、复杂地形适应与部署验证。</p>
-      <p><code>Python</code> <code>强化学习</code> <code>自主导航</code></p>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足自主导航</a></strong>
+      <p><strong>任务：</strong>在复杂地形中完成目标跟踪与自主导航。</p>
+      <p><strong>工作：</strong>设计目标增广观测、奖励塑形与阶段化训练流程，并面向部署约束开展验证。</p>
+      <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nanbloom001/wheeled_leg_RL">轮足机器人强化学习</a></h3>
-      <p>Isaac Lab 训练环境、仿真资产构建与机器人运动控制。</p>
-      <p><code>Isaac Lab</code> <code>强化学习</code> <code>机器人控制</code></p>
+    <td width="33%" valign="top">
+      <strong>四足机器人强化学习</strong>
+      <p><strong>任务：</strong>训练 12 自由度机器狗的稳定步态并完成边缘侧部署。</p>
+      <p><strong>工作：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，并通过 MuJoCo Sim2Sim 验证策略。</p>
+      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>ONNX</code></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检机器人</a></h3>
-      <p>ROS 导航、事件驱动状态机、YOLO 与 OCR 级联检测，以及边缘侧部署。</p>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检机器人</a></strong>
+      <p><strong>任务：</strong>在社区场景中协同完成导航、目标检测与巡检决策。</p>
+      <p><strong>工作：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR，并完成边缘侧部署和时序验证。</p>
       <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘部署</code></p>
     </td>
   </tr>
