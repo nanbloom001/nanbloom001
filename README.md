@@ -29,11 +29,9 @@
   <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab" />
 </p>
 
-<p align="center"><sub><strong>AI Native：</strong>将 AI 作为默认协作工具，贯穿需求拆解、代码实现、调试验证与项目文档。</sub></p>
-
 ---
 
-我关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
+我关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。我习惯借助 AI 工具梳理问题、验证思路并实现自己的想法，持续关注 VLA、模仿学习等 AI 前沿方向，也在积极探索 AI 如何提升学习、开发与工程实践的效率。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
 
 > **项目成果**
 >
@@ -46,15 +44,15 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足导航</a></strong>
-      <p><strong>项目定位：</strong>面向复杂地形的目标跟踪、自主导航与部署验证。</p>
-      <p><strong>核心贡献：</strong>设计目标增广观测、奖励塑形与阶段化训练流程，并围绕真实部署约束验证策略表现。</p>
+      <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">强化学习导航</a></strong>
+      <p><strong>项目定位：</strong>使用强化学习完成四足机器人的目标跟随、复杂地形导航与部署验证。</p>
+      <p><strong>核心贡献：</strong>完成训练环境搭建、奖励机制设计和训练流程优化，并针对导航稳定性、目标跟随效果与部署表现进行测试验证。</p>
       <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>02 · 四足机器人强化学习</strong>
+      <strong>02 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">四足机器人强化学习</a></strong>
       <p><strong>项目定位：</strong>完成 12 自由度机器狗的步态训练、仿真验证与边缘侧部署。</p>
       <p><strong>核心贡献：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，完成 MuJoCo Sim2Sim 验证和 ONNX 部署。</p>
       <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Sim</code> <code>ONNX</code></p>
