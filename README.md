@@ -1,39 +1,57 @@
-<div align="center">
-  <img src="./assets/agent-training.png" alt="Reinforcement learning agent training loop" width="820" />
+# 你好，我是王柯楠
 
-  # nanbloom001
+河海大学人工智能与自动化学院，智能科学与技术专业本科生。
 
-  **Intelligent Robotics · Reinforcement Learning · Competition Engineering**
+我主要关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
 
-  [Portfolio](https://nanbloom001.github.io) · [Projects](https://github.com/nanbloom001?tab=repositories)
-</div>
+## 我在做什么
 
-## Focus
+- 四足与轮足机器人的强化学习训练、仿真验证和边缘侧部署
+- ROS 1 / ROS 2 多节点系统、导航控制、状态机与任务调度
+- SLAM、融合定位与长时间运行中的累计误差修正
+- YOLO、OCR 等视觉算法及其在机器人巡检任务中的应用
+- Isaac Lab、MuJoCo、Gazebo 等机器人仿真与验证工具链
 
-I build learning-based systems for embodied intelligence: from simulation environments and policy training to competition-ready autonomous behavior.
+## 代表项目
 
-- Reinforcement learning for legged and wheeled-leg robots
-- Isaac Lab simulation and training workflows
-- Autonomous navigation, observation design, and Sim2Real-oriented engineering
-- AI algorithm competitions and reproducible project records
+### [腾讯开悟四足机器人自主导航](https://github.com/nanbloom001/kaiwuFinal)
 
-## Selected Work
+围绕四足机器人的目标跟踪与自主导航开展强化学习训练，关注观测设计、奖励塑形、复杂地形适应以及从仿真训练到部署验证的完整流程。
 
-| Project | What it explores | Stack |
-| --- | --- | --- |
-| [kaiwuFinal](https://github.com/nanbloom001/kaiwuFinal) | Autonomous navigation for the Tencent Kaiwu quadruped robot competition | Python, reinforcement learning, simulation |
-| [wheeled_leg_RL](https://github.com/nanbloom001/wheeled_leg_RL) | Wheeled-leg robot policy training with Isaac Lab 2.3.0 | Python, Isaac Lab, RL |
-| [2025AiCOMP_ZHSQ](https://github.com/nanbloom001/2025AiCOMP_ZHSQ) | Open-source competition work for the Global Campus AI Algorithm Elite Competition | Python, computer vision / AI |
-| [unity_game](https://github.com/nanbloom001/unity_game) | Interactive game development experiments | C#, Unity |
+`Python` `强化学习` `四足机器人` `自主导航`
 
-## Working Principles
+### [轮足机器人强化学习](https://github.com/nanbloom001/wheeled_leg_RL)
 
-> Start from the task and the environment, then make the model earn its behavior through evidence.
+基于 Isaac Lab 2.3.0 搭建轮足机器人训练环境，探索策略训练、仿真资产构建与机器人运动控制。
 
-I care about clear task definitions, observable training loops, and deployment constraints. Code repositories are kept as the source of truth; the portfolio adds the decision context, experiments, and project narrative around them.
+`Python` `Isaac Lab` `强化学习` `机器人控制`
 
-## Links
+### [社区智能巡检机器人](https://github.com/nanbloom001/2025AiCOMP_ZHSQ)
 
-- GitHub: [@nanbloom001](https://github.com/nanbloom001)
-- Portfolio: [nanbloom001.github.io](https://nanbloom001.github.io)
+面向社区巡检场景完成视觉算法训练、ROS 导航控制与边缘侧部署，通过事件驱动状态机协调导航和视觉任务，并使用 YOLO 与 OCR 级联完成多模态目标检测。
 
+`ROS 1` `YOLO` `OCR` `状态机` `边缘部署`
+
+## 技术栈
+
+| 方向 | 技术与工具 |
+| --- | --- |
+| 编程语言 | C、C++、Python |
+| 机器人系统 | ROS 1、ROS 2、SLAM、AMCL、导航控制、状态机 |
+| 强化学习与仿真 | Isaac Lab、MuJoCo、Gazebo、域随机化、Sim2Sim |
+| 视觉与部署 | YOLO、OCR、ONNX、Jetson Nano、Docker |
+| 工程工具 | Git、CMake、URDF、USD |
+
+## 经历与成果
+
+- 中国软件杯全国一等奖：参与四足机器人巡检系统开发，负责 ROS 2 系统架构、核心导航算法与复杂任务流控制
+- 全球校园人工智能算法精英大赛全国一等奖：负责社区智能巡检机器人的视觉算法、ROS 导航控制和边缘侧部署
+- 持续进行 12 自由度机器狗的强化学习步态训练、Sim2Sim 验证与轻量化模型部署实践
+
+## 当前关注
+
+- 四足机器人在复杂地形中的自主决策与目标跟踪
+- 强化学习策略的 Sim2Real 迁移与鲁棒性验证
+- 可复现、可观测、可部署的机器人训练工程
+
+项目代码和阶段性实验会持续整理在 GitHub。欢迎通过具体仓库的 Issue 交流技术问题。
