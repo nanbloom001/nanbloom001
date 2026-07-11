@@ -34,22 +34,19 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足自主导航</a></strong>
-      <p><strong>任务：</strong>在复杂地形中完成目标跟踪与自主导航。</p>
-      <p><strong>工作：</strong>设计目标增广观测、奖励塑形与阶段化训练流程，并面向部署约束开展验证。</p>
-      <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
+      <strong><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足导航</a></strong>
+      <p>面向复杂地形的目标跟踪与自主导航，负责观测设计、奖励塑形和阶段化训练。</p>
+      <p><code>强化学习</code> <code>自主导航</code></p>
     </td>
     <td width="33%" valign="top">
       <strong>四足机器人强化学习</strong>
-      <p><strong>任务：</strong>训练 12 自由度机器狗的稳定步态并完成边缘侧部署。</p>
-      <p><strong>工作：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，并通过 MuJoCo Sim2Sim 验证策略。</p>
-      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>ONNX</code></p>
+      <p>完成 12 自由度机器狗步态训练，负责资产构建、域随机化、Sim2Sim 验证与边缘部署。</p>
+      <p><code>Isaac Lab</code> <code>Sim2Sim</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检机器人</a></strong>
-      <p><strong>任务：</strong>在社区场景中协同完成导航、目标检测与巡检决策。</p>
-      <p><strong>工作：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR，并完成边缘侧部署和时序验证。</p>
-      <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘部署</code></p>
+      <strong><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a></strong>
+      <p>协同导航与视觉任务，负责事件驱动状态机、YOLO/OCR 级联检测和边缘部署。</p>
+      <p><code>ROS 1</code> <code>边缘 AI</code></p>
     </td>
   </tr>
 </table>
