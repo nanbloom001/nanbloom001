@@ -25,48 +25,52 @@
 
 > **项目成果**
 >
-> - 中国软件杯全国一等奖：四足机器人巡检系统
-> - 全球校园人工智能算法精英大赛全国一等奖：社区智能巡检机器人
-> - 服务外包腾讯开悟赛道四足机器狗强化学习：区域赛一等奖
+> - **全国一等奖**｜中国软件杯 · 四足机器人巡检系统
+> - **全国一等奖**｜全球校园人工智能算法精英大赛 · 社区智能巡检机器人
+> - **区域赛一等奖**｜服务外包腾讯开悟赛道 · 四足机器狗强化学习
 
 ## 代表项目
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足导航</a></strong>
-      <p>复杂地形目标跟踪、自主导航与部署验证。</p>
-      <p><code>强化学习</code> <code>自主导航</code></p>
+    <td valign="top">
+      <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">腾讯开悟四足导航</a></strong>
+      <p><strong>项目定位：</strong>面向复杂地形的目标跟踪、自主导航与部署验证。</p>
+      <p><strong>核心贡献：</strong>设计目标增广观测、奖励塑形与阶段化训练流程，并围绕真实部署约束验证策略表现。</p>
+      <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
     </td>
-    <td width="33%" valign="top">
-      <strong>四足机器人强化学习</strong>
-      <p>12 自由度机器狗步态训练与边缘部署。</p>
-      <p><code>Isaac Lab</code> <code>Sim2Sim</code></p>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>02 · 四足机器人强化学习</strong>
+      <p><strong>项目定位：</strong>完成 12 自由度机器狗的步态训练、仿真验证与边缘侧部署。</p>
+      <p><strong>核心贡献：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，完成 MuJoCo Sim2Sim 验证和 ONNX 部署。</p>
+      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Sim</code> <code>ONNX</code></p>
     </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a></strong>
-      <p>机器人导航、视觉检测与巡检决策协同。</p>
-      <p><code>ROS 1</code> <code>边缘 AI</code></p>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>03 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a></strong>
+      <p><strong>项目定位：</strong>协同机器人导航、视觉检测与巡检决策，完成社区场景中的多模态任务。</p>
+      <p><strong>核心贡献：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR 检测，并通过时序验证降低视觉误报。</p>
+      <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘 AI</code></p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><strong>查看代表项目的核心贡献</strong></summary>
-  <br />
+## 我的标签
 
-- **腾讯开悟四足导航：**设计目标增广观测、奖励塑形与阶段化训练流程，并面向部署约束验证复杂地形中的目标跟踪与自主导航。
-- **四足机器人强化学习：**构建 URDF/USD 资产、自定义奖励与域随机化，完成 MuJoCo Sim2Sim 验证和 ONNX 边缘侧部署。
-- **社区智能巡检：**搭建事件驱动状态机，级联 YOLO 与 OCR 检测，并通过时序验证协调导航、视觉和巡检任务。
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Native-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Native" />
+  <img src="https://img.shields.io/badge/Robotics-00599C?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/VLA-6F42C1?style=flat-square" alt="VLA" />
+  <img src="https://img.shields.io/badge/Imitation_Learning-8A2BE2?style=flat-square" alt="Imitation Learning" />
+  <img src="https://img.shields.io/badge/Sim2Real-B35C00?style=flat-square" alt="Sim2Real" />
+  <img src="https://img.shields.io/badge/AI_Coding-24292F?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI Coding" />
+</p>
 
-</details>
-
-## 当前关注
-
-- 四足机器人在复杂地形中的自主决策与目标跟踪
-- 强化学习策略的 Sim2Sim / Sim2Real 迁移与鲁棒性验证
-- ROS 1 / ROS 2 多节点系统、融合定位与复杂任务调度
-- 可复现、可观测、可部署的机器人训练工程
+<p><strong>AI Native：</strong>将 AI 作为默认协作工具，贯穿需求拆解、代码实现、调试验证与项目文档；同时关注 VLA、模仿学习与强化学习在机器人决策和控制中的结合。</p>
 
 ## GitHub 数据
 
