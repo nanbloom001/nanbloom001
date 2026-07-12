@@ -37,7 +37,7 @@
 
 ---
 
-我关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。我习惯借助 AI 工具梳理问题、验证思路并实现自己的想法，持续关注 VLA、模仿学习等 AI 前沿方向，也在积极探索 AI 如何提升学习、开发与工程实践的效率。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
+我关注机器人软件、强化学习与智能系统工程，希望把算法从仿真环境带到真实设备上。我习惯借助 AI 工具梳理问题、验证思路并实现自己的想法，持续关注 VLA、模仿学习等具身智能前沿方向，也在积极探索 AI coding如何提升学习、开发与工程实践的效率。相比单纯追求模型指标，我更在意系统能否稳定运行、行为能否被验证，以及算法能否在有限算力下真正落地。
 
 > **项目成果**
 >
@@ -51,7 +51,7 @@
   <tr>
     <td valign="top">
       <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">强化学习导航</a></strong>
-      <p><strong>项目定位：</strong>使用强化学习完成四足机器人的目标跟随、复杂地形导航与部署验证。</p>
+      <p><strong>项目定位：</strong>使用强化学习完成四足机器人的目标跟随、复杂地形导航与unitreeGO2实机部署验证。</p>
       <p><strong>核心贡献：</strong>完成训练环境搭建、奖励机制设计和训练流程优化，并针对导航稳定性、目标跟随效果与部署表现进行测试验证。</p>
       <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
     </td>
@@ -59,7 +59,7 @@
   <tr>
     <td valign="top">
       <strong>02 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">四足机器人强化学习</a></strong>
-      <p><strong>项目定位：</strong>完成 12 自由度机器狗的步态训练、仿真验证与边缘侧部署。</p>
+      <p><strong>项目定位：</strong>完成自研 12 自由度机器狗的载体设计、步态训练、仿真验证与边缘侧部署。</p>
       <p><strong>核心贡献：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，完成 MuJoCo Sim2Sim 验证和 ONNX 部署。</p>
       <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Sim</code> <code>ONNX</code></p>
     </td>
@@ -68,7 +68,7 @@
     <td valign="top">
       <strong>03 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a></strong>
       <p><strong>项目定位：</strong>协同机器人导航、视觉检测与巡检决策，完成社区场景中的多模态任务。</p>
-      <p><strong>核心贡献：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR 检测，并通过时序验证降低视觉误报。</p>
+      <p><strong>核心贡献：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR 检测，通过ROS1将视觉模块与运动模块结合。</p>
       <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘 AI</code></p>
     </td>
   </tr>
@@ -91,11 +91,10 @@
 | 方向 | 技术与工具 |
 | --- | --- |
 | 编程语言 | C、C++、Python |
-| 机器人系统 | ROS 1、ROS 2、SLAM、AMCL、导航控制、状态机 |
-| 强化学习与仿真 | Isaac Lab、MuJoCo、Gazebo、域随机化、Sim2Sim |
+| 机器人系统 | ROS 1、ROS 2、SLAM、AMCL、导航控制 |
+| 强化学习与仿真 | Isaac Lab、MuJoCo、Sim2Sim、Sim2Real |
 | 视觉与部署 | YOLO、OCR、ONNX、Jetson Nano、Docker |
-| 工程工具 | Git、CMake、URDF、USD |
 
 </details>
 
-项目代码和阶段性实验会持续整理在 GitHub。技术交流请通过对应仓库的 Issue 发起。
+项目代码和阶段性实验会持续整理在 GitHub。技术交流请联系我的邮箱：nanbloom001@gmail.com 。
