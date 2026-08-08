@@ -92,9 +92,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github" />
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbloom001&amp;theme=github" alt="GitHub 贡献概览" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github/0-profile-details.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub 贡献概览" />
   </picture>
 </p>
 
