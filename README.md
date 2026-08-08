@@ -72,6 +72,14 @@
       <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘 AI</code></p>
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <strong>04 · <a href="https://github.com/nanbloom001/unitree_cnsoft_demo">四足机器人巡航系统</a></strong>
+      <p><strong>项目定位：</strong>基于宇树 GO2 EDU 的自主巡航系统开发，攻克长流程巡航下的定位漂移难题。</p>
+      <p><strong>核心贡献：</strong>基于 ROS 2 设计分层状态机编排多阶段任务，融合 SLAM 与高频里程计双源定位，以关键路径点校准抑制累计漂移。</p>
+      <p><code>ROS 2</code> <code>SLAM</code> <code>状态机</code> <code>宇树 GO2</code></p>
+    </td>
+  </tr>
 </table>
 
 ## 人生档案
