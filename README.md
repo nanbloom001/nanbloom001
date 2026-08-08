@@ -45,20 +45,6 @@
 > - **全国一等奖**｜全球校园人工智能算法精英大赛 · 社区智能巡检机器人
 > - **区域赛一等奖**｜服务外包腾讯开悟赛道 · 四足机器狗强化学习
 
-## 人生档案
-
-<p align="center">
-  <a href="https://nanbloom001.github.io/journey-archive/" title="打开交互式人生档案">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-dark.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-light.png" />
-      <img width="100%" src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-light.png" alt="楠的 Life Archive 人生档案预览" />
-    </picture>
-  </a>
-</p>
-
-<p align="center"><sub>17 个时间节点 · 点击预览进入交互版本</sub></p>
-
 ## 代表项目
 
 <table width="100%">
@@ -88,15 +74,19 @@
   </tr>
 </table>
 
-## GitHub 数据
+## 人生档案
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github/0-profile-details.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub 贡献概览" />
-  </picture>
+  <a href="https://nanbloom001.github.io/journey-archive/" title="打开交互式人生档案">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-light.png" />
+      <img width="100%" src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/life-archive-light.png" alt="楠的 Life Archive 人生档案预览" />
+    </picture>
+  </a>
 </p>
+
+<p align="center"><sub>17 个时间节点 · 点击预览进入交互版本</sub></p>
 
 <details>
   <summary><strong>技术栈与工具</strong></summary>
