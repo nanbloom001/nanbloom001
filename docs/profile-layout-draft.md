@@ -57,7 +57,7 @@
 │  01 · 12-DOF 四足机器人强化学习与 Sim2Real             │
 │                                                        │
 │  🔗 [项目链接 → wheeled_leg_RL]                        │
-│  [右侧小图 → quadruped-sim2real.jpg]                   │
+│  [右侧小图 → 12-DOF 实机]                              │
 │                                                        │
 │  基于自组装 12 自由度四足机器人，完成从仿真训练、      │
 │  Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。          │

@@ -39,7 +39,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="68%">
       <strong>01 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">12-DOF 四足机器人强化学习与 Sim2Real</a> 🔗</strong>
       <p>基于自组装 12 自由度四足机器人，完成从仿真训练、Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。</p>
       <p><strong>主要工作：</strong></p>
@@ -50,10 +50,10 @@
       </ul>
       <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Real</code> <code>Jetson</code></p>
     </td>
-    <td valign="middle" width="30%" align="center">
+    <td valign="top" width="32%" align="center">
       <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/quadruped-sim2real.jpg" width="100%" alt="自组装 12 自由度四足机器人真机与控制系统联调" />
       <br />
-      <sub>自组装 12-DOF 四足机器人实机</sub>
+      <sub>12-DOF 实机</sub>
     </td>
   </tr>
   <tr>
