@@ -39,32 +39,42 @@
 
 <table width="100%">
   <tr>
-    <td valign="top">
-      <strong>01 · <a href="https://github.com/nanbloom001/kaiwuFinal">强化学习导航</a></strong>
+    <td valign="top" width="70%">
+      <strong>01 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">12-DOF 四足机器人强化学习与 Sim2Real</a> 🔗</strong>
+      <p>基于自组装 12 自由度四足机器人，完成从仿真训练、Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。</p>
+      <p><strong>主要工作：</strong></p>
+      <ul>
+        <li>完成机器人本体设计与组装，并构建数字资产接入 Isaac Lab 强化学习框架</li>
+        <li>开展运动策略训练与 MuJoCo Sim2Sim 验证</li>
+        <li>在 Jetson 边缘端完成策略部署，并与 STM32 下位机联调</li>
+      </ul>
+      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Real</code> <code>Jetson</code></p>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/quadruped-sim2real.jpg" width="100%" alt="自组装 12 自由度四足机器人真机与控制系统联调" />
+      <br />
+      <sub>自组装 12-DOF 四足机器人实机</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <strong>02 · <a href="https://github.com/nanbloom001/kaiwuFinal">强化学习导航</a> 🔗</strong>
       <p><strong>项目定位：</strong>使用强化学习完成四足机器人的目标跟随、复杂地形导航与unitreeGO2实机部署验证。</p>
       <p><strong>核心贡献：</strong>完成训练环境搭建、奖励机制设计和训练流程优化，并针对导航稳定性、目标跟随效果与部署表现进行测试验证。</p>
       <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>02 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">四足机器人强化学习</a></strong>
-      <p><strong>项目定位：</strong>完成自研 12 自由度机器狗的载体设计、步态训练、仿真验证与边缘侧部署。</p>
-      <p><strong>核心贡献：</strong>构建 URDF/USD 资产、自定义奖励与域随机化，完成 MuJoCo Sim2Sim 验证和 ONNX 部署。</p>
-      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Sim</code> <code>ONNX</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>03 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a></strong>
+    <td valign="top" colspan="2">
+      <strong>03 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a> 🔗</strong>
       <p><strong>项目定位：</strong>协同机器人导航、视觉检测与巡检决策，完成社区场景中的多模态任务。</p>
       <p><strong>核心贡献：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR 检测，通过ROS1将视觉模块与运动模块结合。</p>
       <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘 AI</code></p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>04 · <a href="https://github.com/nanbloom001/unitree_cnsoft_demo">四足机器人巡航系统</a></strong>
+    <td valign="top" colspan="2">
+      <strong>04 · <a href="https://github.com/nanbloom001/unitree_cnsoft_demo">四足机器人巡航系统</a> 🔗</strong>
       <p><strong>项目定位：</strong>基于宇树 GO2 EDU 的自主巡航系统开发，攻克长流程巡航下的定位漂移难题。</p>
       <p><strong>核心贡献：</strong>基于 ROS 2 设计分层状态机编排多阶段任务，融合 SLAM 与高频里程计双源定位，以关键路径点校准抑制累计漂移。</p>
       <p><code>ROS 2</code> <code>SLAM</code> <code>状态机</code> <code>宇树 GO2</code></p>
