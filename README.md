@@ -1,7 +1,6 @@
 <h1 align="center">你好，我是楠 👋</h1>
 
 <p align="center">
-  <strong>@nanbloom001</strong><br />
   <a href="mailto:nanbloom001@gmail.com">nanbloom001@gmail.com</a>
 </p>
 
