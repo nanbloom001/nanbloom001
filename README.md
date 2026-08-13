@@ -48,7 +48,7 @@
         <li>开展运动策略训练与 MuJoCo Sim2Sim 验证</li>
         <li>在 Jetson 边缘端完成策略部署，并与 STM32 下位机联调</li>
       </ul>
-      <p><code>Isaac Lab</code> <code>MuJoCo</code> <code>Sim2Real</code> <code>Jetson</code></p>
+      <p><code>Reinforcement Learning</code> <code>Sim2Sim</code> <code>Sim2Real</code></p>
     </td>
     <td valign="top" width="32%" align="center">
       <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/quadruped-sim2real.jpg" width="100%" alt="自组装 12 自由度四足机器人真机与控制系统联调" />
