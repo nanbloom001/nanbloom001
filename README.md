@@ -57,11 +57,21 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
-      <strong>02 · <a href="https://github.com/nanbloom001/kaiwuFinal">强化学习导航</a> 🔗</strong>
-      <p><strong>项目定位：</strong>使用强化学习完成四足机器人的目标跟随、复杂地形导航与unitreeGO2实机部署验证。</p>
-      <p><strong>核心贡献：</strong>完成训练环境搭建、奖励机制设计和训练流程优化，并针对导航稳定性、目标跟随效果与部署表现进行测试验证。</p>
-      <p><code>强化学习</code> <code>自主导航</code> <code>Sim2Real</code></p>
+    <td valign="top" width="68%">
+      <strong>02 · <a href="https://github.com/nanbloom001/kaiwuFinal">四足机器人自主导航与运控</a> 🔗</strong>
+      <p><strong>项目简介：</strong>面向 Unitree Go2，完成复杂地形自主导航与 Sim2Real 真机部署验证。</p>
+      <p><strong>主要工作：</strong></p>
+      <ul>
+        <li>教师—学生分阶段蒸馏 + DAgger，实现特权高程向深度视觉策略迁移</li>
+        <li>解耦高层导航与低层步态控制，降低迭代耦合并加速训练</li>
+        <li>通过时序记忆与域随机化提升真机感知与执行鲁棒性</li>
+      </ul>
+      <p><code>Policy Distillation</code> <code>Hierarchical Navigation</code> <code>Sim2Real</code></p>
+    </td>
+    <td valign="top" width="32%" align="center">
+      <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/go2-field-test.jpg" width="100%" alt="Unitree Go2 复杂地形自主导航场地实测" />
+      <br />
+      <sub>Go2 复杂地形场地实测</sub>
     </td>
   </tr>
   <tr>
