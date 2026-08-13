@@ -5,27 +5,23 @@
   · 河海大学 · 智能科学与技术
 </p>
 
-<p align="center">
+<div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&pause=1400&color=2F81F7&center=true&vCenter=true&width=600&lines=%E8%AE%A9%E7%AE%97%E6%B3%95%E4%BB%8E%E4%BB%BF%E7%9C%9F%E8%B5%B0%E5%90%91%E7%9C%9F%E5%AE%9E%E6%9C%BA%E5%99%A8%E4%BA%BA;%E5%85%B3%E6%B3%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B9%A0%E3%80%81%E9%AA%8C%E8%AF%81%E4%B8%8E%E9%83%A8%E7%BD%B2%E7%9A%84%E5%AE%8C%E6%95%B4%E9%97%AD%E7%8E%AF;Learning%20%C2%B7%20Simulation%20%C2%B7%20Deployment"
     alt="机器人学习、仿真与部署"
   />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://img.shields.io/badge/Robot_Learning-00599C?style=flat-square" alt="Robot Learning" />
   <img src="https://img.shields.io/badge/Reinforcement_Learning-2E7D32?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Sim2Real-B35C00?style=flat-square" alt="Sim2Real" />
   <img src="https://img.shields.io/badge/Legged_Robotics-6F42C1?style=flat-square" alt="Legged Robotics" />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 1" />
   <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab" />
   <img src="https://img.shields.io/badge/MuJoCo-1F6FEB?style=flat-square" alt="MuJoCo" />
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson" />
-</p>
+</div>
 
 ---
 
