@@ -41,7 +41,7 @@
   <tr>
     <td valign="top" width="68%">
       <strong>01 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">12-DOF 四足机器人强化学习与 Sim2Real</a> 🔗</strong>
-      <p>基于自组装 12 自由度四足机器人，完成从仿真训练、Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。</p>
+      <p><strong>项目简介：</strong>基于自组装 12 自由度四足机器人，完成从仿真训练、Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。</p>
       <p><strong>主要工作：</strong></p>
       <ul>
         <li>完成机器人本体设计与组装，并构建数字资产接入 Isaac Lab 强化学习框架</li>
