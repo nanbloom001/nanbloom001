@@ -75,19 +75,39 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
-      <strong>03 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检</a> 🔗</strong>
-      <p><strong>项目定位：</strong>协同机器人导航、视觉检测与巡检决策，完成社区场景中的多模态任务。</p>
-      <p><strong>核心贡献：</strong>搭建事件驱动状态机，级联 YOLO 与 OCR 检测，通过ROS1将视觉模块与运动模块结合。</p>
-      <p><code>ROS 1</code> <code>YOLO</code> <code>OCR</code> <code>边缘 AI</code></p>
+    <td valign="top" width="68%">
+      <strong>03 · <a href="https://github.com/nanbloom001/unitree_cnsoft_demo">四足机器人自主巡航系统</a> 🔗</strong>
+      <p><strong>项目简介：</strong>基于 Unitree Go2 EDU，完成面向复杂路线的自主巡航系统开发与真机运行验证。</p>
+      <p><strong>主要工作：</strong></p>
+      <ul>
+        <li>基于 ROS 2 构建分层任务状态机，编排导航、避障、登坡与识别触发等长流程巡航任务</li>
+        <li>融合 SLAM 位姿与高频里程计，通过关键路径点校准抑制累计漂移</li>
+        <li>设计非阻塞任务调度与独立通信线程，保障导航与外部识别任务连续协同</li>
+      </ul>
+      <p><code>ROS 2</code> <code>Autonomous Navigation</code> <code>SLAM</code></p>
+    </td>
+    <td valign="top" width="32%" align="center">
+      <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/go2-autonomous-cruise.jpg" width="100%" alt="Unitree Go2 EDU 复杂路线自主巡航真机验证" />
+      <br />
+      <sub>Go2 自主巡航真机验证</sub>
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
-      <strong>04 · <a href="https://github.com/nanbloom001/unitree_cnsoft_demo">四足机器人巡航系统</a> 🔗</strong>
-      <p><strong>项目定位：</strong>基于宇树 GO2 EDU 的自主巡航系统开发，攻克长流程巡航下的定位漂移难题。</p>
-      <p><strong>核心贡献：</strong>基于 ROS 2 设计分层状态机编排多阶段任务，融合 SLAM 与高频里程计双源定位，以关键路径点校准抑制累计漂移。</p>
-      <p><code>ROS 2</code> <code>SLAM</code> <code>状态机</code> <code>宇树 GO2</code></p>
+    <td valign="top" width="68%">
+      <strong>04 · <a href="https://github.com/nanbloom001/2025AiCOMP_ZHSQ">社区智能巡检机器人</a> 🔗</strong>
+      <p><strong>项目简介：</strong>面向社区巡检场景，完成自主导航、视觉识别与语音播报的一体化机器人系统开发。</p>
+      <p><strong>主要工作：</strong></p>
+      <ul>
+        <li>设计事件驱动分层调度，实现导航与视觉任务异步协同</li>
+        <li>采用 YOLO/OCR 级联推理，降低边缘侧视觉计算开销</li>
+        <li>结合时序校验与规则后处理，提升识别与巡检流程稳定性</li>
+      </ul>
+      <p><code>ROS 1</code> <code>Computer Vision</code> <code>Edge AI</code></p>
+    </td>
+    <td valign="top" width="32%" align="center">
+      <img src="https://raw.githubusercontent.com/nanbloom001/nanbloom001/main/assets/community-inspection-robot.jpg" width="100%" alt="社区智能巡检机器人场景验证" />
+      <br />
+      <sub>社区智能巡检场景验证</sub>
     </td>
   </tr>
 </table>
