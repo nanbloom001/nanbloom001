@@ -2,10 +2,7 @@
 
 <p align="center">
   <a href="mailto:nanbloom001@gmail.com">nanbloom001@gmail.com</a>
-</p>
-
-<p align="center">
-  河海大学 · 智能科学与技术
+  · 河海大学 · 智能科学与技术
 </p>
 
 <p align="center">
