@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td valign="top" width="68%">
-      <strong>02 · <a href="https://github.com/nanbloom001/kaiwuFinal">四足机器人自主导航与运控</a> 🔗</strong>
+      <strong>02 · <a href="https://github.com/nanbloom001/Kaiwu_Final_Stage">四足机器人自主导航与运控</a> 🔗</strong>
       <p><strong>项目简介：</strong>面向 Unitree Go2，完成复杂地形自主导航与 Sim2Real 真机部署验证。</p>
       <p><strong>主要工作：</strong></p>
       <ul>
