@@ -32,7 +32,7 @@
 <table width="100%">
   <tr>
     <td valign="top" width="68%">
-      <strong>01 · <a href="https://github.com/nanbloom001/wheeled_leg_RL">12-DOF 四足机器人强化学习与 Sim2Real</a> 🔗</strong>
+      <strong>01 · <a href="https://github.com/nanbloom001/weixue-dog-RL">12-DOF 四足机器人强化学习与 Sim2Real</a> 🔗</strong>
       <p><strong>项目简介：</strong>基于自组装 12 自由度四足机器人，完成从仿真训练、Sim2Sim 验证到真机部署的完整 Sim2Real 闭环。</p>
       <p><strong>主要工作：</strong></p>
       <ul>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td valign="top" width="68%">
-      <strong>02 · <a href="https://github.com/nanbloom001/Kaiwu_Final_Stage">四足机器人自主导航与运控</a> 🔗</strong>
+      <strong>02 · <a href="https://github.com/nanbloom001/kaiwu-final-sim2real">四足机器人自主导航与运控</a> 🔗</strong>
       <p><strong>项目简介：</strong>面向 Unitree Go2，完成复杂地形自主导航与 Sim2Real 真机部署验证。</p>
       <p><strong>主要工作：</strong></p>
       <ul>
